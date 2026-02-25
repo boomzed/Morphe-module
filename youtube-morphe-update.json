@@ -1,6 +1,6 @@
 {
-  "version": "v20.40.45 (patches 1.14.0.mpp)",
-  "versionCode": 1,
-  "zipUrl": "https://github.com/boomzed/Morphe-module/releases/download/1/youtube-morphe-magisk-v20.40.45-all.zip",
+  "version": "v20.40.45 (patches 1.15.0.mpp)",
+  "versionCode": 2,
+  "zipUrl": "https://github.com/boomzed/Morphe-module/releases/download/2/youtube-morphe-magisk-v20.40.45-all.zip",
   "changelog": "https://raw.githubusercontent.com/boomzed/Morphe-module/update/build.md"
 }
